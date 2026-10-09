@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-FF4B4B)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.1.0-brightgreen)
 
-A machine learning prototype designed to predict the likelihood of an insurance policyholder filing a claim within a specified time period (3, 6, or 12 months). 
+A machine learning prototype designed to predict the likelihood of an insurance policyholder filing a claim within a specified time period. 
 
 This project was developed as part of a BSc Data Science Honours research thesis at the University of Namibia, focusing on applying advanced machine learning techniques (XGBoost) to improve predictive accuracy over traditional actuarial methods.
 
